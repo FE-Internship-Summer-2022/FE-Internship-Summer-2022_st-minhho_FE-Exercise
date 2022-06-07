@@ -2,8 +2,8 @@
 ​
 ### Ho Le Nhat Minh
 ​
-02/06/2000
-​
-SupremeTech
-​
-Frontend
+- 02/06/2000​
+
+- SupremeTech​
+
+- Frontend
