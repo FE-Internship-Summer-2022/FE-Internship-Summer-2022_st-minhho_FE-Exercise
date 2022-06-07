@@ -1,9 +1,9 @@
 # FE Internship Summer 2022
 ​
-### Ho Le Nhat Minh<br>
+### Ho Le Nhat Minh
 ​
-02/06/2000<br>
+- 02/06/2000
 ​
-Duy Tan University<br>
+- SupremeTech
 ​
-Da Nang
+- Da Nang
