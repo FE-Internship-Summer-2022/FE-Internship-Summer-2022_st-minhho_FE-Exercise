@@ -2,8 +2,8 @@
 ​
 ### Ho Le Nhat Minh
 ​
-- 02/06/2000
-​
-- SupremeTech
-​
-- Da Nang
+- 02/06/2000​
+
+- SupremeTech​
+
+- Frontend
