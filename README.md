@@ -4,6 +4,6 @@
 ​
 02/06/2000<br>
 ​
-Duy Tan University<br>
+SupremeTech<br>
 ​
 Da Nang
